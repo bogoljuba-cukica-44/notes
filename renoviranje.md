@@ -9,6 +9,7 @@ Sve ukupno oko 80000 din (700 eur)
 - [Kako se pravilno boje zidovi i koje farbe treba odabrati](https://www.gradnja.rs/bojenje-zidova-vrste-boja-cena/)
 - [Postavka ugaone aluminijumske lajsne na zid](https://www.gradnja.rs/uradi-sam-postavka-ugaone-aluminijumske-lajsne-na-zid/)
 - [Postupak krpljenja pukotina i krečenja plafona](https://www.gradnja.rs/postupak-saniranja-pukotina-i-krecenja-plafona/)
+- [Poludisperzije, disperzije ili akrilne boje](https://krov.rs/poludisperzije-disperzije-ili-akrilne-boje-sta-odabrati/)
 
 ### Nameštaj
 
@@ -45,9 +46,10 @@ Više informacija:
 
 - [ABS trake](https://www.gradnja.rs/abs-trake-kantovanje-debljina-cena/)
 
-### Nameštaj
-3. Novi sandučići
-   Sandučići koštaju 22 kom * 2000 din/kom = 44000 din (370€)
+### Poštanski sandučići 
 
-4. Kamere
-   
+Sandučići koštaju 22 kom * 2000 din/kom = 44000 din (370€)
+
+### Video nadzor
+
+x
