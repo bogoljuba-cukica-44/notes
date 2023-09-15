@@ -63,9 +63,9 @@ Vladan Čolović
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 
-Za crtanje
+Za crtanje: vectr.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTc2OTI0NywtMTAxNjkyNzExMSwtMj
+eyJoaXN0b3J5IjpbMTg0NDc5NDQ4NCwtMTAxNjkyNzExMSwtMj
 UyOTY1LC01NjQzMDc3NSw3NzkxNTQzNjAsMTcxMjYwOTkzLDQ0
 ODMyNzU2NCwtMzkxODI4ODE2LC0xOTkwMTM0ODZdfQ==
 -->
