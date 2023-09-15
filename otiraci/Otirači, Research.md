@@ -5,6 +5,7 @@
 [IKEA Otirači](https://www.ikea.com/rs/sr/cat/otiraci-10698/)   
 [Emmezeta Otirači](https://www.emmezeta.rs/uredenje-doma/tepisi/otiraci.html)  
 [Uradi Sam](https://uradi-sam.rs/otiraci)
+[Antre Archives - Pasat d.o.o.](https://pasat.rs/product-category/oko-kuce/antre/)
 
 ### Vesnin Kutak
 
@@ -55,6 +56,6 @@ Vladan Čolović
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjYwOTkzLDQ0ODMyNzU2NCwtMzkxOD
-I4ODE2LC0xOTkwMTM0ODZdfQ==
+eyJoaXN0b3J5IjpbNzc5MTU0MzYwLDE3MTI2MDk5Myw0NDgzMj
+c1NjQsLTM5MTgyODgxNiwtMTk5MDEzNDg2XX0=
 -->
