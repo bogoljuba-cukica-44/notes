@@ -46,6 +46,8 @@ Vladan Čolović
 
 [Otiraci-Shop](https://otiraci-shop.rs/)
 
+[FORBO PROFESIONALNI LUKSUZNI OTIRAČI - Mi pravimo razliku](https://luksuzniotiraci.rs/)
+
 ---
 
 # Otirači
@@ -53,6 +55,6 @@ Vladan Čolović
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MzI3NTY0LC0zOTE4Mjg4MTYsLTE5OT
-AxMzQ4Nl19
+eyJoaXN0b3J5IjpbMTcxMjYwOTkzLDQ0ODMyNzU2NCwtMzkxOD
+I4ODE2LC0xOTkwMTM0ODZdfQ==
 -->
