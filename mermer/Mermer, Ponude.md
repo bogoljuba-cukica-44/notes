@@ -14,6 +14,12 @@ predlog je mermer daino reale, 15 eur je kanovanje po m², a m² mermera sa mont
 
 Bolje je da uradim samo unutrašnju stranu vrata od lifta.
 ```
+
+
+##### Inđija
+
+[Kompozitni mermer Madreperla – Ideal Stone](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/)
+https://www.quarella.com/collection/madreperla/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAyMjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbODMxMjU5NjIsLTIwNTAyMjQ4NzRdfQ==
 -->
