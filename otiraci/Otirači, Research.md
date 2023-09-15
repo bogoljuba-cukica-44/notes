@@ -2,6 +2,7 @@
 
 ### Standardna ponuda
 
+[Otirači | Tepisi De Valk – Tepisi, Vinil, Veštačka trava, Itisoni](https://tepisidevalk.rs/otiraci)
 [IKEA Otirači](https://www.ikea.com/rs/sr/cat/otiraci-10698/)   
 [Emmezeta Otirači](https://www.emmezeta.rs/uredenje-doma/tepisi/otiraci.html)  
 [Uradi Sam](https://uradi-sam.rs/otiraci)
@@ -56,6 +57,7 @@ Vladan Čolović
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MTU0MzYwLDE3MTI2MDk5Myw0NDgzMj
-c1NjQsLTM5MTgyODgxNiwtMTk5MDEzNDg2XX0=
+eyJoaXN0b3J5IjpbMjg0MTU3MDY4LDc3OTE1NDM2MCwxNzEyNj
+A5OTMsNDQ4MzI3NTY0LC0zOTE4Mjg4MTYsLTE5OTAxMzQ4Nl19
+
 -->
