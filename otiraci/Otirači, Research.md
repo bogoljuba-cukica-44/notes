@@ -54,12 +54,16 @@ Vladan Čolović
 
 ---
 
+[Štampanje otirača u štampariji Easyprint](https://easyprint.com/rs/otiraci)
+
+---
+
 # Otirači
 
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjk2NSwtNTY0MzA3NzUsNzc5MTU0Mz
-YwLDE3MTI2MDk5Myw0NDgzMjc1NjQsLTM5MTgyODgxNiwtMTk5
-MDEzNDg2XX0=
+eyJoaXN0b3J5IjpbLTEwMTY5MjcxMTEsLTI1Mjk2NSwtNTY0Mz
+A3NzUsNzc5MTU0MzYwLDE3MTI2MDk5Myw0NDgzMjc1NjQsLTM5
+MTgyODgxNiwtMTk5MDEzNDg2XX0=
 -->
