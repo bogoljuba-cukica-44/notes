@@ -43,7 +43,7 @@ Vladan Čolović
 
 [Otirači Gapa](http://www.gapamat.rs/) je češka firma iz Smedereva a i oni prave logo-otirače.
 
-
+[Otiraci-Shop](https://otiraci-shop.rs/)
 
 ---
 
@@ -52,5 +52,5 @@ Vladan Čolović
 Širina vrata 85cm, štok 100cm
 Moj mali otirač je 60x25
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAxMzQ4Nl19
+eyJoaXN0b3J5IjpbOTcyMDM3OTA2LC0xOTkwMTM0ODZdfQ==
 -->
