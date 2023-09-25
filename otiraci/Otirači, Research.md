@@ -52,7 +52,6 @@ Vladan Čolović
 
 [FORBO PROFESIONALNI LUKSUZNI OTIRAČI - Mi pravimo razliku](https://luksuzniotiraci.rs/)
 
-
 ---
 
 [Štampanje otirača u štampariji Easyprint](https://easyprint.com/rs/otiraci)
@@ -65,9 +64,13 @@ Vladan Čolović
 Moj mali otirač je 60x25
 
 Za crtanje: vectr.com
+
+
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE2OTA0MjYsMTg0NDc5NDQ4NCwtMT
-AxNjkyNzExMSwtMjUyOTY1LC01NjQzMDc3NSw3NzkxNTQzNjAs
-MTcxMjYwOTkzLDQ0ODMyNzU2NCwtMzkxODI4ODE2LC0xOTkwMT
-M0ODZdfQ==
+eyJoaXN0b3J5IjpbMTA3NjI5MDQ5MSwxODQ0Nzk0NDg0LC0xMD
+E2OTI3MTExLC0yNTI5NjUsLTU2NDMwNzc1LDc3OTE1NDM2MCwx
+NzEyNjA5OTMsNDQ4MzI3NTY0LC0zOTE4Mjg4MTYsLTE5OTAxMz
+Q4Nl19
 -->
