@@ -4,11 +4,11 @@
 
 
 
-[IKEA](https://www.ikea.com/rs/sr/cat/bastenske-klupe-47386/) ima klupe za dvorište, ali su baš nekvalitetne a najjeftinija je 9000 din
-
+-  [IKEA](https://www.ikea.com/rs/sr/cat/bastenske-klupe-47386/) ima klupe za dvorište, ali su baš loše a najjeftinija je 9000 din
+- [JYSK](https://jysk.rs/basta/bastenske-klupe) klupe za baštu su očajne, a najjeftinija sa naslonom je 11500 din, model KLINT
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTMzMzc5Miw2Nzc4MTEzODYsMTE0Nj
-c5NzUwMywxNjkxODc5MDUzLC04OTU0MTY0NjFdfQ==
+eyJoaXN0b3J5IjpbLTIwODUwMzA2MTEsNjc3ODExMzg2LDExND
+Y3OTc1MDMsMTY5MTg3OTA1MywtODk1NDE2NDYxXX0=
 -->
