@@ -4,8 +4,11 @@
 
 
 
+[IKEA](https://www.ikea.com/rs/sr/cat/bastenske-klupe-47386/) ima klupe za dvorište, ali su baš nekvalitetne a najjeftinija je 9000 din
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODExMzg2LDExNDY3OTc1MDMsMTY5MT
-g3OTA1MywtODk1NDE2NDYxXX0=
+eyJoaXN0b3J5IjpbMTAzOTMzMzc5Miw2Nzc4MTEzODYsMTE0Nj
+c5NzUwMywxNjkxODc5MDUzLC04OTU0MTY0NjFdfQ==
 -->
