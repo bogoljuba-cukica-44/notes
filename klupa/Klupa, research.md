@@ -1,7 +1,6 @@
 [Arming](https://arming.rs/betonska-galanterija/) proizvodi baš interesantne betonske konstukcije, ali su preskupe. Na primer, betonska klupa "Lasta" sa žardinjerama košta 25000 din. Na sajtu je objavljen i kompletan cenovnik.
 
-![Žardinjera moderna metal-drvo](2023-09-29-drvo-metal-zardinjera.jpg) 
-
+![Žardinjera moderna metal-drvo](https://raw.githubusercontent.com/bogoljuba-cukica-44/notes/notes/klupa/2023-09-29-drvo-metal-zardinjera.jpg)
 
 - [Woby Haus](https://www.wobyhaus.co.rs/satorilezaljkekrevet-stolice/26311-klupa-bastenska) ima super-jeftinu klupu klasičnog dizajna za 8800 din i dužine 125cm. Ako ćemo da kupujemo najjeftinije, ovo je rešenje.
 -  [IKEA](https://www.ikea.com/rs/sr/cat/bastenske-klupe-47386/) ima klupe za dvorište, ali su baš loše a najjeftinija je 9000 din
@@ -24,7 +23,7 @@ A ova, malo klasičnija, košta 150 eur, u dužini od 2m
 ![Moderna klupa od 150 eur](https://images.kupujemprodajem.com/photos/oglasi/3/22/147439223/147439223_642b6500a1b3b6-640951396d5e1fe6ba6f8aa.webp)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY3NTQsNDQ2NzQ2MDIwLDM5NTgzMz
-Q3OSwtMjA4NTAzMDYxMSw2Nzc4MTEzODYsMTE0Njc5NzUwMywx
-NjkxODc5MDUzLC04OTU0MTY0NjFdfQ==
+eyJoaXN0b3J5IjpbMTcwMjA1MTc2NCwtNDI4Njc1NCw0NDY3ND
+YwMjAsMzk1ODMzNDc5LC0yMDg1MDMwNjExLDY3NzgxMTM4Niwx
+MTQ2Nzk3NTAzLDE2OTE4NzkwNTMsLTg5NTQxNjQ2MV19
 -->
