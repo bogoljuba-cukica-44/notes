@@ -11,8 +11,9 @@ Kontaktirao sam preko KP:
 
 - [Saša, Kragujevac](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupa-bastenska-klupa-metal-drvo/oglas/147439223)
 - [Klupe, Borča](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupe/oglas/150956654)
+- [Inđija, odlična klupa](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupe/oglas/92578311) po ceni od 220 eur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQzODE3MjIsLTIwODUwMzA2MTEsNj
-c3ODExMzg2LDExNDY3OTc1MDMsMTY5MTg3OTA1MywtODk1NDE2
-NDYxXX0=
+eyJoaXN0b3J5IjpbMzk1ODMzNDc5LC0yMDg1MDMwNjExLDY3Nz
+gxMTM4NiwxMTQ2Nzk3NTAzLDE2OTE4NzkwNTMsLTg5NTQxNjQ2
+MV19
 -->
