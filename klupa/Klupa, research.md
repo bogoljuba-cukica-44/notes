@@ -11,11 +11,15 @@ Kontaktirao sam preko KP:
 
 - [Inđija, odlična klupa](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupe/oglas/92578311) po ceni od 220 eur
 - [Saša, Kragujevac](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupa-bastenska-klupa-metal-drvo/oglas/147439223). Ona prelepa i moderna klupa je 180 eur, dok je malo ružnija 150 eur.
-- 
+-  
+![Moderna i prelepa klupa](https://images.kupujemprodajem.com/photos/oglasi/3/22/147439223/147439223_642b1883b598b4-42608253e793d48f1809b55.webp)
+
+A ova košta 150 eur, u dužini od 
+![enter image description here](https://images.kupujemprodajem.com/photos/oglasi/3/22/147439223/147439223_642b6500a1b3b6-640951396d5e1fe6ba6f8aa.webp)
 - [Klupe, Borča](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupe/oglas/150956654)
 - [Novi Pazar, Home Industrial](https://novi.kupujemprodajem.com/dvoriste-i-basta/bastenski-namestaj/klupa/oglas/157552182) je malo skuplja i ružnija
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTQwODM2NSw0NDY3NDYwMjAsMzk1OD
-MzNDc5LC0yMDg1MDMwNjExLDY3NzgxMTM4NiwxMTQ2Nzk3NTAz
-LDE2OTE4NzkwNTMsLTg5NTQxNjQ2MV19
+eyJoaXN0b3J5IjpbLTEyNDcwODYwNDUsNDQ2NzQ2MDIwLDM5NT
+gzMzQ3OSwtMjA4NTAzMDYxMSw2Nzc4MTEzODYsMTE0Njc5NzUw
+MywxNjkxODc5MDUzLC04OTU0MTY0NjFdfQ==
 -->
