@@ -1,5 +1,6 @@
 # Predmer
 
+Sigurno ra
 ## 1: Ulaz u lift, prizemlje:
 
 (1) Širina lifta 100 cm
@@ -73,7 +74,7 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NjU0MTE5LDI2Mjg4NjAzNiwxNjAwMj
-Q0NjM3LC02NDQ3NDE4MjYsLTEyODk0ODI1MDcsLTIxMDM1Njcy
-OTEsLTIwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbMTk5OTU2MjAwOSwyNjI4ODYwMzYsMTYwMD
+I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
+MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
 -->
