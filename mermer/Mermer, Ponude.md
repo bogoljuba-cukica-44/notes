@@ -1,6 +1,5 @@
-
 ### Aleksandar Mermer, Beograd⁩
-📞 +381642905884
+📞+381642905884
 
 I on predlaže mermer Daino Reale, ali mi je Lift Jeftino verziju dao cenu za sečenje i obradu od 1.590€ plus montaža 290€, što mi vrlo skupo izgleda.
 
@@ -17,12 +16,11 @@ Kada bih po ovim cenama računao, ispalo bi:
 
 ### Ideal Stone, Inđija
 
-[Kompozitni mermer Madreperla – Ideal Stone](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/)
-https://www.quarella.com/collection/madreperla/
+Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 
 [Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjU5MDMsMTgzNjA5MDgxNywzMDUwOD
-I5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMzQ5MzE5Mzk1LDE4MzYwOTA4MTcsMzA1MD
+gyOTUyLC0xNTk4OTMwMTEwLC0yMDUwMjI0ODc0XX0=
 -->
