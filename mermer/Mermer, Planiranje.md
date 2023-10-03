@@ -65,13 +65,15 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 | 2 kom ( 30 cm x 205 cm ) | vrata inner-vert   |
 | 1 kom ( 100 cm x 30 cm ) | vrata inner-horz   |
 
+---
+
 # Predračun
 
 1. Lift Jeftino: površina 2.88 m2, dužine reza 25.05 m  
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyODg2MDM2LDE2MDAyNDQ2MzcsLTY0ND
-c0MTgyNiwtMTI4OTQ4MjUwNywtMjEwMzU2NzI5MSwtMjA0NDMw
-NjY0LC05MDYzMTYxMTZdfQ==
+eyJoaXN0b3J5IjpbNTM5NjU0MTE5LDI2Mjg4NjAzNiwxNjAwMj
+Q0NjM3LC02NDQ3NDE4MjYsLTEyODk0ODI1MDcsLTIxMDM1Njcy
+OTEsLTIwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
 -->
