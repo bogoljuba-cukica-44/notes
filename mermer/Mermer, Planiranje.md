@@ -59,12 +59,12 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 | dimenzije                | opis                  |
 | -                        | -                     |
 | 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
-| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
-| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
-| 2 kom ( 30 cm x 205 cm ) | vrata inner-vert       |
-| 1 kom ( 100 cm x 30 cm ) | vrata inner-horz  |
+| 4 kom ( 10 cm x 215 cm ) | 2 x vrata out-vert |
+| 2 kom ( 100 cm x 10 cm ) | 2 x vrata out-horz |
+| 2 kom ( 30 cm x 205 cm ) | vrata inner-vert   |
+| 1 kom ( 100 cm x 30 cm ) | vrata inner-horz   |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjg0MTc1MiwtMjA0NDMwNjY0LC05MD
-YzMTYxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NzMyMTUzNjcsLTIwNDQzMDY2NCwtOT
+A2MzE2MTE2XX0=
 -->
