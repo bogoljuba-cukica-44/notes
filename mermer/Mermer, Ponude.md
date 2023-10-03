@@ -9,9 +9,7 @@ I on predlaže mermer Daino Reale, ali mi je Lift Jeftino verziju dao cenu za se
 Čovek predlaže mermer Daino Reale, koji košta po m² mermera sa montažom oko 250€, dok je kantovanje 15 eur/m.
 
 Kada bih po ovim cenama računao, ispalo bi:
-1.  Lift: 1095.75 / 1720.5 eur
-3.  Prolazna vrata: 905.5 eur
-4.  Lift na spratovima, jeftino: 942.25 eur
+Lift 1096€ / 1721€, Prolazna vrata 906€, Lift spratovi 943€
 
 ### Ideal Stone, Inđija
 
@@ -22,12 +20,13 @@ Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprod
 #### Kvarc?
 Kvarc koji nude je od firme Technistone, a cena je 200-280€/m2, dok je kolekcija Serenity skuplja, oko 320-400€/m2. Svi dezeni koji pripadaju "Standard" kolekciji pretpostavljam da koštaju oko 200€/m2, a tu ima odličnih i sasvim zadovoljavajućih, kao što su Brilliant Black odnosno Crystal Belgium. Pogledaj super izbor na [Technistone sajtu](https://www.technistone.com/en/color/-1/1).
 
-Pod pretpostavkom da je kantovanje 15€/m i kvarc 200€/m2, cene bi bile Lift je
+Pod pretpostavkom da je kantovanje 15€/m i kvarc 200€/m2, cene bi bile:
+Lift 952€ / 1440€, Prolazna vrata 906€, Lift spratovi 943€
 
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAyMTI2NTcsMzU4ODU3MjM5LDc5MD
+eyJoaXN0b3J5IjpbLTE2NTgwNzUxNjYsMzU4ODU3MjM5LDc5MD
 AwOTA2NywxOTAzNDI1MjU5LDE4MzYwOTA4MTcsMzA1MDgyOTUy
 LC0xNTk4OTMwMTEwLC0yMDUwMjI0ODc0XX0=
 -->
