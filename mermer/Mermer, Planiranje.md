@@ -28,7 +28,7 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 
 ## Plan i dimenzije
 
-### 1/1: Portal lift / Jeftino, ivice
+### 1/1: Portal lift | Jeftino
 
 | dimenzije                | opis                  |
 | -                        | -                     |
@@ -38,20 +38,20 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 | 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
 | 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
-### 1/2: Portal lift / Skupo
+### 1/2: Portal lift | Skupo
 
 Skuplja varijanta je da je ceo frontalni deo pokriven mermerom, što u slučaju svetlog mermera može da izgleda lepo.
 
-| dimenzije                | opis                  |
-| -                        | -                     |
-| 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica |
-| 1 kom ( 65 cm x 315 cm ) | leva vertikala, front |
-| 1 kom ( 10 cm x 315 cm ) | desna vert, ivica     |
-| 1 kom ( 30 cm x 315 cm ) | desna vert, front     |
-| 1 kom ( 10 cm x 235 cm ) | lift front-iznad vrat |
-| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
-| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
+| dimenzije                | opis                   |
+| -                        | -                      |
+| 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica  |
+| 1 kom ( 65 cm x 315 cm ) | leva vertikala, front  |
+| 1 kom ( 10 cm x 315 cm ) | desna vert, ivica      |
+| 1 kom ( 30 cm x 315 cm ) | desna vert, front      |
+| 1 kom ( 100 cm x 90 cm ) | lift front-iznad vrata |
+| 2 kom ( 20 cm x 225 cm ) | lift inner-vert        |
+| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1Mzg0NDYwLC05MDYzMTYxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
 -->
