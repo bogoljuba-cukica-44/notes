@@ -40,16 +40,17 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 
 ### 1/2: Portal lift / Skupo
 
-Skuplja varij
+Skuplja varijanta je da je ceo frontalni deo pokriven mermerom, što u slučaju svetlog mermera može da izgleda lepo.
 
 | dimenzije                | opis                  |
 | -                        | -                     |
-| 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
+| 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica |
+| 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica |
 | 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
 | 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
 | 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
 | 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzODk3NDc2LC05MDYzMTYxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDA5NzQ0NTIsLTkwNjMxNjExNl19
 -->
