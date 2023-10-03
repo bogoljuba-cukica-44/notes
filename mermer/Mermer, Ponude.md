@@ -21,7 +21,11 @@ Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idea
 
 [Asortiman Kompozitni mermer kod Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/) uglavnom ima sve svetle boje, ali može se naći identičan boji našeg zida, na primer Bainco Ambra.
 
+Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprodajem.com/gradjevinarstvo/gradjevinski-materijali/granit-mermer-kvarc-seceno-na-meru/oglas/6937855)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTg3NDc1NywxODM2MDkwODE3LDMwNT
-A4Mjk1MiwtMTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
+eyJoaXN0b3J5IjpbLTExNTc0NDU0NDIsMTgzNjA5MDgxNywzMD
+UwODI5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
