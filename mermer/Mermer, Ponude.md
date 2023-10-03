@@ -26,10 +26,11 @@ Lift 952€ / 1440€, Prolazna vrata 776€, Lift spratovi 823€
 #### Kompozitni mermer?
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
-Pošto je cena 100€/m2, cena je ukupno:
+Pošto je cena 100€/m2, cene su: Lift 663€ / 883€, Prolazna vrata 517€, Lift spratovi 585€
+#### Pločice ogromnih formata od 3m dužine
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMD
-kwNjcsMTkwMzQyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1Miwt
-MTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
+eyJoaXN0b3J5IjpbLTIxMzI5NDkyMDcsNjcyOTgyMTYzLDM1OD
+g1NzIzOSw3OTAwMDkwNjcsMTkwMzQyNTI1OSwxODM2MDkwODE3
+LDMwNTA4Mjk1MiwtMTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
 -->
