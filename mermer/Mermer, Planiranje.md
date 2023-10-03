@@ -84,9 +84,9 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 1. Lift Jeftino: površina 2.88 m2, dužine reza 25.05 m  
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
-3. Lift na spratovima, jeftino: površina 2.38 m2, dužine reza 23.15 m  
+3. Lift na spratovima, jeftino: površina 2.38 m2, dužine reza 23.15 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTkwODI1MCwyNjI4ODYwMzYsMTYwMD
+eyJoaXN0b3J5IjpbLTkyMzY1NTY1NCwyNjI4ODYwMzYsMTYwMD
 I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
 MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
 -->
