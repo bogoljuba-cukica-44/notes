@@ -16,16 +16,15 @@ Kada bih po ovim cenama računao, ispalo bi:
 
 ### Ideal Stone, Inđija
 
-Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
-
-
 [Asortiman Kompozitni mermer kod Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/) uglavnom ima sve svetle boje, ali može se naći identičan boji našeg zida, na primer Bainco Ambra.
 
 Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprodajem.com/gradjevinarstvo/gradjevinski-materijali/granit-mermer-kvarc-seceno-na-meru/oglas/6937855)
 
+Kvarc koji nude je od firme Technistone
 
+Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc0NDU0NDIsMTgzNjA5MDgxNywzMD
-UwODI5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMTkwMzQyNTI1OSwxODM2MDkwODE3LDMwNT
+A4Mjk1MiwtMTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
 -->
