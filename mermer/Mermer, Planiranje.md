@@ -67,6 +67,16 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 | 2 kom ( 30 cm x 205 cm ) | vrata inner-vert   |
 | 1 kom ( 100 cm x 30 cm ) | vrata inner-horz   |
 
+## Spratovi Lift | v. Jeftino
+
+| dimenzije                | opis                  |
+| -                        | -                     |
+| 4 kom ( 10 cm x 225 cm ) | dve ivične vertikale  |
+| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
+| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
+| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
+| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
+
 ---
 
 # Predračun
@@ -75,7 +85,7 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NDc5ODk0LDI2Mjg4NjAzNiwxNjAwMj
-Q0NjM3LC02NDQ3NDE4MjYsLTEyODk0ODI1MDcsLTIxMDM1Njcy
-OTEsLTIwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbLTc4NzM5NTg1OSwyNjI4ODYwMzYsMTYwMD
+I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
+MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
 -->
