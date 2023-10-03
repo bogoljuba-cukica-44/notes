@@ -1,4 +1,4 @@
-## Dimenzije
+# Predmer
 
 #### 1: Ulaz u lift, prizemlje:
 
@@ -26,7 +26,7 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 (5) Levo od lifta 62 cm
 (6) Desno od lifta 30 cm
 
-## Sečene dimenzije
+# Sečene dimenzije
 
 ### 1/1: Portal lift | Jeftino
 
@@ -63,12 +63,12 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 | 2 kom ( 30 cm x 205 cm ) | vrata inner-vert   |
 | 1 kom ( 100 cm x 30 cm ) | vrata inner-horz   |
 
-## Predračun
+# Predračun
 
 1. Lift Jeftino: površina 2.88 m2, dužine reza 25.05 m  
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk0ODI1MDcsLTIxMDM1NjcyOTEsLT
-IwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbLTY0NDc0MTgyNiwtMTI4OTQ4MjUwNywtMj
+EwMzU2NzI5MSwtMjA0NDMwNjY0LC05MDYzMTYxMTZdfQ==
 -->
