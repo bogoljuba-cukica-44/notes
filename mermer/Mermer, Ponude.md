@@ -7,13 +7,13 @@ Montaža 290€
 ```
 
 
-##### Šabac
+### Šabac
 
-```
-predlog je mermer daino reale, 15 eur je kanovanje po m², a m² mermera sa montažom je oko 250€
+Čovek predlaže mermer Daino Reale, 15 eur je kanovanje po m², koji košta m² mermera sa montažom je oko 250€
 
 Bolje je da uradim samo unutrašnju stranu vrata od lifta.
 ```
+Kada bih po ovim cenama računao
 
 
 ##### Inđija
@@ -24,6 +24,6 @@ https://www.quarella.com/collection/madreperla/
 
 [Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwNTU0OTA5MzIsLTE1OTg5MzAxMTAsLT
+IwNTAyMjQ4NzRdfQ==
 -->
