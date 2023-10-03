@@ -30,11 +30,11 @@ Pošto je cena 100€/m2, cene su: Lift 663€ / 883€, Prolazna vrata 517€, 
 
 #### Laminam keramika
 Proizvode se ploče u veličini od 3.2m x 1.6m
-Ima nestvarnih dezena u visokom sjaju za koje se ne može razaznati da li je u pitanju mermer, na primer Nero Greco (Polished Finish), Diamond Cream (Polished)
+Ima nestvarnih dezena u visokom sjaju za koje se ne može razaznati da li je u pitanju mermer, na primer Nero Greco (Polished Finish), Diamond Cream (Polished). Imaju nestvarne finish-e, npr [Polished Starlit](https://www.laminam.com/en/finish/polished-starlit/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM2NTA3MDEsNTI2ODYyMTQ4LDY3Mj
-k4MjE2MywzNTg4NTcyMzksNzkwMDA5MDY3LDE5MDM0MjUyNTks
-MTgzNjA5MDgxNywzMDUwODI5NTIsLTE1OTg5MzAxMTAsLTIwNT
-AyMjQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTc5ODkwNTIsLTEwNjM2NTA3MDEsNT
+I2ODYyMTQ4LDY3Mjk4MjE2MywzNTg4NTcyMzksNzkwMDA5MDY3
+LDE5MDM0MjUyNTksMTgzNjA5MDgxNywzMDUwODI5NTIsLTE1OT
+g5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
