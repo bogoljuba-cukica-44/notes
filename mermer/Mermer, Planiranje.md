@@ -65,10 +65,10 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 
 ## Predračun
 
-1/1: Portal lift | Jeftino
+1/1: Portal lift | Jeftino: površina 2.88 m2, dužine reza 25.05 m
 1/2: Portal lift | Skupo
 2: Prolazna vrata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM1NjcyOTEsLTIwNDQzMDY2NCwtOT
-A2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbLTU4ODU4NzIyMywtMjEwMzU2NzI5MSwtMj
+A0NDMwNjY0LC05MDYzMTYxMTZdfQ==
 -->
