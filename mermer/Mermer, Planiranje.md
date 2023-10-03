@@ -1,6 +1,7 @@
 # Predmer
 
-Sigurno ra
+Sigurno radimo lift-portal kao i prolazna vrata, dok će uređenje po spratovima sasvim sigurno biti rađeno u jeftinijojvarijanti.
+
 ## 1: Ulaz u lift, prizemlje:
 
 (1) Širina lifta 100 cm
@@ -32,14 +33,14 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 # Sečene dimenzije
 
 ## 1/1: Portal lift | Jeftino
-
-| dimenzije                | opis                  |
-| -                        | -                     |
-| 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
-| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
-| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
-| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
-| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
+- Portal lift | Jeftino
+	| dimenzije                | opis                  |
+	| -                        | -                     |
+	| 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
+	| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
+	| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
+	| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
+	| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
 ## 1/2: Portal lift | Skupo
 
@@ -74,7 +75,7 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTU2MjAwOSwyNjI4ODYwMzYsMTYwMD
+eyJoaXN0b3J5IjpbMTQyMDY1NzUyNywyNjI4ODYwMzYsMTYwMD
 I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
 MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
 -->
