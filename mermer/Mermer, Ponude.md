@@ -1,12 +1,11 @@
 
-
 ### Aleksandar Mermer, Beograd⁩
-> ☎️ +381642905884
+📞 +381642905884
 
 I on predlaže mermer Daino Reale, ali mi je Lift Jeftino verziju dao cenu za sečenje i obradu od 1.590€ plus montaža 290€, što mi vrlo skupo izgleda.
 
 ### ⁨Borivoj Ilić Mermer, Šabac
-☎️ +381646436392
+📞+381646436392
 
 Čovek predlaže mermer Daino Reale, koji košta po m² mermera sa montažom oko 250€, dok je kantovanje 15 eur/m.
 
@@ -24,6 +23,6 @@ https://www.quarella.com/collection/madreperla/
 
 [Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjI0MTkyMSwxODM2MDkwODE3LDMwNT
-A4Mjk1MiwtMTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
+eyJoaXN0b3J5IjpbLTg0NjU5MDMsMTgzNjA5MDgxNywzMDUwOD
+I5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
