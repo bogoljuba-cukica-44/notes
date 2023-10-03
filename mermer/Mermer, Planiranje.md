@@ -26,7 +26,7 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 (5) Levo od lifta 62 cm
 (6) Desno od lifta 30 cm
 
-## Plan i dimenzije
+## Sečene dimenzije
 
 ### 1/1: Portal lift | Jeftino
 
@@ -56,15 +56,19 @@ Skuplja varijanta je da je ceo frontalni deo pokriven mermerom, što u slučaju 
 
 Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i nećemo odmah raditi.
 
-| dimenzije                | opis                  |
-| -                        | -                     |
-| 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
+| dimenzije                | opis               |
+| -                        | -                  |
 | 4 kom ( 10 cm x 215 cm ) | 2 x vrata out-vert |
 | 2 kom ( 100 cm x 10 cm ) | 2 x vrata out-horz |
 | 2 kom ( 30 cm x 205 cm ) | vrata inner-vert   |
 | 1 kom ( 100 cm x 30 cm ) | vrata inner-horz   |
 
+## Predračun
+
+1/1: Portal lift | Jeftino
+1/2: Portal lift | Skupo
+2: Prolazna vrata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyMTUzNjcsLTIwNDQzMDY2NCwtOT
+eyJoaXN0b3J5IjpbLTIxMDM1NjcyOTEsLTIwNDQzMDY2NCwtOT
 A2MzE2MTE2XX0=
 -->
