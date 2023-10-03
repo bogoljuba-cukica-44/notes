@@ -19,8 +19,9 @@ Kada bih po ovim cenama računao, ispalo bi:
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 
-[Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
+[Asortiman Kompozitni mermer kod Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/) uglavnom ima sve svetle boje, ali može se naći identičan boji našeg zida, na primer Bainco Ambra.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MzE5Mzk1LDE4MzYwOTA4MTcsMzA1MD
-gyOTUyLC0xNTk4OTMwMTEwLC0yMDUwMjI0ODc0XX0=
+eyJoaXN0b3J5IjpbMjA5NTg3NDc1NywxODM2MDkwODE3LDMwNT
+A4Mjk1MiwtMTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
 -->
