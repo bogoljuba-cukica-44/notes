@@ -52,6 +52,17 @@ Skuplja varijanta je da je ceo frontalni deo pokriven mermerom, što u slučaju 
 | 2 kom ( 20 cm x 225 cm ) | lift inner-vert        |
 | 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note  |
 
+### 2: Prolazna vrata
+
+| dimenzije                | opis                  |
+| -                        | -                     |
+| 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale  |
+| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
+| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
+| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
+| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQzMDY2NCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbLTU0ODA3MTQ1OSwtMjA0NDMwNjY0LC05MD
+YzMTYxMTZdfQ==
 -->
