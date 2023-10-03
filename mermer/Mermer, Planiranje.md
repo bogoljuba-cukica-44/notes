@@ -71,10 +71,10 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 
 | dimenzije                | opis                  |
 | -                        | -                     |
-| 4 kom ( 10 cm x 225 cm ) | dve ivične vertikale  |
+| 4 kom ( 10 cm x 270 cm ) | dve ivične vertikale  |
 | 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
 | 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
-| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
+| 2 kom ( 15 cm x 225 cm ) | lift inner-vert       |
 | 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
 ---
@@ -84,8 +84,9 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 1. Lift Jeftino: površina 2.88 m2, dužine reza 25.05 m  
     Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
+3. Lift na spratovima, jeftino: površina 2.88 m2, dužine reza 25.05 m  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzM5NTg1OSwyNjI4ODYwMzYsMTYwMD
-I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
-MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
+eyJoaXN0b3J5IjpbLTEzNzQ2MDI5MzUsMjYyODg2MDM2LDE2MD
+AyNDQ2MzcsLTY0NDc0MTgyNiwtMTI4OTQ4MjUwNywtMjEwMzU2
+NzI5MSwtMjA0NDMwNjY0LC05MDYzMTYxMTZdfQ==
 -->
