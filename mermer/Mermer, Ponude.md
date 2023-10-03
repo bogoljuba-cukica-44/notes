@@ -1,7 +1,10 @@
-⁨Aleksandar (Mermer, Beograd)⁩
-+381642905884
 
-```
+
+### Aleksandar Mermer, Beograd⁩
+
+Kontakt: +381642905884
+
+I on predlaže ```
 Mermer Daino Reale, sečenje I obrada cena je 1.590€ 
 Montaža 290€
 ```
@@ -17,7 +20,7 @@ Kada bih po ovim cenama računao, ispalo bi:
 3.  Prolazna vrata: 905.5 eur
 4.  Lift na spratovima, jeftino: 942.25 eur
 
-##### Inđija
+### Ideal Stone, Inđija
 
 [Kompozitni mermer Madreperla – Ideal Stone](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/)
 https://www.quarella.com/collection/madreperla/
@@ -25,6 +28,6 @@ https://www.quarella.com/collection/madreperla/
 
 [Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MDgyOTUyLC0xNTk4OTMwMTEwLC0yMD
-UwMjI0ODc0XX0=
+eyJoaXN0b3J5IjpbMTA0NjMzODIxNSwzMDUwODI5NTIsLTE1OT
+g5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
