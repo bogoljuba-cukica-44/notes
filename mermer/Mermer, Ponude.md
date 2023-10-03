@@ -20,12 +20,15 @@ Kada bih po ovim cenama računao, ispalo bi:
 
 Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprodajem.com/gradjevinarstvo/gradjevinski-materijali/granit-mermer-kvarc-seceno-na-meru/oglas/6937855)
 
-Kvarc koji nude je od firme Technistone, a cena je 200-280€/m2, dok je kolekcija Serenity skuplja, oko 320-400€/m2. Svi dezeni koji pripadaju "Standard" kolekciji pretpostavljam da koštaju oko 200€/m2, a tu ima odličnih i sasvim zadovoljavajućih, kao što su Brilliant Black odnosno Crystal Belgium. Pogledaj super izbor na [Technistone sajtu](https://www.technistone.com/en/color/-1/1)
+#### Kvarc
+Kvarc koji nude je od firme Technistone, a cena je 200-280€/m2, dok je kolekcija Serenity skuplja, oko 320-400€/m2. Svi dezeni koji pripadaju "Standard" kolekciji pretpostavljam da koštaju oko 200€/m2, a tu ima odličnih i sasvim zadovoljavajućih, kao što su Brilliant Black odnosno Crystal Belgium. Pogledaj super izbor na [Technistone sajtu](https://www.technistone.com/en/color/-1/1).
+
+Pod pretpostavkom da 
 
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4ODU3MjM5LDc5MDAwOTA2NywxOTAzND
-I1MjU5LDE4MzYwOTA4MTcsMzA1MDgyOTUyLC0xNTk4OTMwMTEw
-LC0yMDUwMjI0ODc0XX0=
+eyJoaXN0b3J5IjpbLTE1MDM2ODY5ODUsMzU4ODU3MjM5LDc5MD
+AwOTA2NywxOTAzNDI1MjU5LDE4MzYwOTA4MTcsMzA1MDgyOTUy
+LC0xNTk4OTMwMTEwLC0yMDUwMjI0ODc0XX0=
 -->
