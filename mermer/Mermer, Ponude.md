@@ -21,12 +21,15 @@ Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprod
 Kvarc koji nude je od firme Technistone, a cena je 200-280€/m2, dok je kolekcija Serenity skuplja, oko 320-400€/m2. Svi dezeni koji pripadaju "Standard" kolekciji pretpostavljam da koštaju oko 200€/m2, a tu ima odličnih i sasvim zadovoljavajućih, kao što su Brilliant Black odnosno Crystal Belgium. Pogledaj super izbor na [Technistone sajtu](https://www.technistone.com/en/color/-1/1).
 
 Pod pretpostavkom da je kantovanje 15€/m i kvarc 200€/m2, cene bi bile:
-Lift 952€ / 1440€, Prolazna vrata 906€, Lift spratovi 943€
+Lift 952€ / 1440€, Prolazna vrata 776€, Lift spratovi 823€
 
+#### Kompozitni mermer?
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
+Pošto je cena 100€/m2, cena je ukupno:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgwNzUxNjYsMzU4ODU3MjM5LDc5MD
-AwOTA2NywxOTAzNDI1MjU5LDE4MzYwOTA4MTcsMzA1MDgyOTUy
-LC0xNTk4OTMwMTEwLC0yMDUwMjI0ODc0XX0=
+eyJoaXN0b3J5IjpbNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMD
+kwNjcsMTkwMzQyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1Miwt
+MTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
 -->
