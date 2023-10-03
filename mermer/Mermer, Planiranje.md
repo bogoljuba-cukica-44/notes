@@ -33,10 +33,10 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 | dimenzije                | opis                 |
 | -                        | -                    |
 | 4 kom ( 10 cm x 315 cm ) | dve ivične vertikale |
-| 2 kom ( 10 cm x 235 cm ) | lift|
-| 1 kom ( 100 cm x 10 cm ) | |
-| 2 kom ( 20 cm x 225 cm ) | |
-| 1 kom ( 100 cm x 15 cm )  | |
+| 2 kom ( 10 cm x 235 cm ) | lift front-vert      |
+| 1 kom ( 100 cm x 10 cm ) | lift front-horz      |
+| 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
+| 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
 ### Skupo, komplet portal
 
@@ -46,5 +46,5 @@ x
 |  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTI5MzI0MCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbODYyOTk2NTY1LC05MDYzMTYxMTZdfQ==
 -->
