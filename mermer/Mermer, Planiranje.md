@@ -66,9 +66,9 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 ## Predračun
 
 1. Lift Jeftino: površina 2.88 m2, dužine reza 25.05 m  
-    Lift Skupo: površina 5.58 m2, dužine reza 25.05 m  
-2. Prolazna vrata
+    Lift Skupo: površina 5.58 m2, dužine reza 21.7 m  
+2. Prolazna vrata: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzg4MDM1NywtMjEwMzU2NzI5MSwtMj
+eyJoaXN0b3J5IjpbLTU4OTk5NjIxMywtMjEwMzU2NzI5MSwtMj
 A0NDMwNjY0LC05MDYzMTYxMTZdfQ==
 -->
