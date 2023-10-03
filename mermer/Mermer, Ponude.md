@@ -4,8 +4,7 @@
 
 Kontakt: +381642905884
 
-I on predlaže ```
-Mermer Daino Reale, sečenje I obrada cena je 1.590€ 
+I on predlaže mermer Daino Reale, ali mi je za sečenje I obrada cena je 1.590€ 
 Montaža 290€
 ```
 
@@ -28,6 +27,6 @@ https://www.quarella.com/collection/madreperla/
 
 [Asortiman Kompozitni mermer – Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjMzODIxNSwzMDUwODI5NTIsLTE1OT
+eyJoaXN0b3J5IjpbLTE3NTA3Njc0MSwzMDUwODI5NTIsLTE1OT
 g5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
