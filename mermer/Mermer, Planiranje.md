@@ -28,13 +28,15 @@ Ukupno 4 sprata, dimenzije slične ali ne identične kao u prizemlju
 
 ## Plan i dimenzije
 
-### Jeftino, samo ivice
+### 1/1: Jeftino, samo ivice
 
-4 x ( 10 cm x 315 cm )
+4 kom ( 10 cm x 315 cm )
+2 kom ( 10 cm x 235 cm )
+1 kom ( 100 cm x 10 cm )
 
 ### Skupo, komplet portal
 
 x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Njk1MDg3MCwtOTA2MzE2MTE2XX0=
+eyJoaXN0b3J5IjpbLTc1NzYyNjg1OCwtOTA2MzE2MTE2XX0=
 -->
