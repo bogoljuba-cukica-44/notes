@@ -45,12 +45,13 @@ Skuplja varijanta je da je ceo frontalni deo pokriven mermerom, što u slučaju 
 | dimenzije                | opis                  |
 | -                        | -                     |
 | 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica |
-| 1 kom ( 10 cm x 315 cm ) | leva vertikala, ivica |
-| 2 kom ( 10 cm x 235 cm ) | lift front-vert       |
-| 1 kom ( 100 cm x 10 cm ) | lift front-horz       |
+| 1 kom ( 65 cm x 315 cm ) | leva vertikala, front |
+| 1 kom ( 10 cm x 315 cm ) | desna vert, ivica     |
+| 1 kom ( 30 cm x 315 cm ) | desna vert, front     |
+| 1 kom ( 10 cm x 235 cm ) | lift front-iznad vrat |
 | 2 kom ( 20 cm x 225 cm ) | lift inner-vert       |
 | 1 kom ( 100 cm x 15 cm ) | lift inner-horz, note |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA5NzQ0NTIsLTkwNjMxNjExNl19
+eyJoaXN0b3J5IjpbMzg1Mzg0NDYwLC05MDYzMTYxMTZdfQ==
 -->
