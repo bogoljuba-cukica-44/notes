@@ -30,7 +30,7 @@ Lift 952€ / 1440€, Prolazna vrata 776€, Lift spratovi 823€
 
 ### Granit?
 
-Po dezenu mi se jedino sviđa dezen Blue Pearl, a sve ostalo mi je ružno.
+Po dezenu mi se jedino sviđa Blue Pearl, a sve ostalo mi je ružno. Cene granita su ili vrlo skupe ili umereno skupe.
 
 ### Kompozitni mermer?
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
@@ -58,7 +58,7 @@ Sad mislim da je najbolje da radim u keramici.
 | ![](https://media.gettyimages.com/id/1206237915/photo/elevator-lobby-11-hanover-square-london-united-kingdom-architect-campbell-architects-ltd-2017.jpg?s=612x612&w=gi&k=20&c=sPFJnxevy61sOU5vom0D7E0FAkeB7HQ9968a5H-QTo8=) | ![](https://as2.ftcdn.net/v2/jpg/02/94/43/73/1000_F_294437347_mpDj5YLnT4YIxhd80gVl2mio2zfC1BIe.jpg) | ![](https://media-cdn.tripadvisor.com/media/photo-s/0a/57/a3/97/lift-kamar-superior.jpg) |
 | ![](https://www.squareyards.com/cdn-cgi/image/width=546,height=546,quality=80,fit=crop,gravity=auto,format=webp/https://img.squareyards.com/secondaryPortal/638257907957425782-2407231019551955.jpg) | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTY1MzUxNiwyMDY0MzE4OTI1LC0yMT
+eyJoaXN0b3J5IjpbLTM1MDE5NzQxNSwyMDY0MzE4OTI1LC0yMT
 EyODg4MTUzLDE4NDk1MTM0NCwtMTA2MzY1MDcwMSw1MjY4NjIx
 NDgsNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMDkwNjcsMTkwMz
 QyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1MiwtMTU5ODkzMDEx
