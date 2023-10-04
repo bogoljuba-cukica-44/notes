@@ -19,18 +19,18 @@ Lift 1096€ / 1721€, Prolazna vrata 906€, Lift spratovi 943€
 
 Detaljan cenovnik se nalazi na [KupujemProdajem oglasu](https://novi.kupujemprodajem.com/gradjevinarstvo/gradjevinski-materijali/granit-mermer-kvarc-seceno-na-meru/oglas/6937855)
 
-#### Kvarc?
+### Kvarc?
 Kvarc koji nude je od firme Technistone, a cena je 200-280€/m2, dok je kolekcija Serenity skuplja, oko 320-400€/m2. Svi dezeni koji pripadaju "Standard" kolekciji pretpostavljam da koštaju oko 200€/m2, a tu ima odličnih i sasvim zadovoljavajućih, kao što su Brilliant Black odnosno Crystal Belgium. Pogledaj super izbor na [Technistone sajtu](https://www.technistone.com/en/color/-1/1).
 
 Pod pretpostavkom da je kantovanje 15€/m i kvarc 200€/m2, cene bi bile:
 Lift 952€ / 1440€, Prolazna vrata 776€, Lift spratovi 823€
 
-#### Kompozitni mermer?
+### Kompozitni mermer?
 Trenutno ima na lageru samo [kompozitni mermer Quarella Madreperla](https://idealstone.rs/portfolio/kompozitni-mermer-madreperla/), a pogledaj ceo asortiman na Quarella sajtu - [Mother of pearl](https://www.quarella.com/collection/madreperla/)
 
 Pošto je cena 100€/m2, cene su: Lift 663€ / 883€, Prolazna vrata 517€, Lift spratovi 585€
 
-#### Laminam keramika
+### Laminam keramika
 Proizvode se ploče u veličini od 3.2m x 1.6m
 Ima nestvarnih dezena u visokom sjaju za koje se ne može razaznati da li je u pitanju mermer, na primer Nero Greco (Polished Finish), Diamond Cream (Polished). Imaju nestvarne finish-e, npr [Polished Starlit](https://www.laminam.com/en/finish/polished-starlit/) ali su i ostali [Finishes](https://www.laminam.com/en/finishes/) nestvarni.
 
@@ -51,7 +51,7 @@ Sad mislim da je najbolje da radim u keramici.
 | ![](https://media.gettyimages.com/id/1206237915/photo/elevator-lobby-11-hanover-square-london-united-kingdom-architect-campbell-architects-ltd-2017.jpg?s=612x612&w=gi&k=20&c=sPFJnxevy61sOU5vom0D7E0FAkeB7HQ9968a5H-QTo8=) | ![](https://as2.ftcdn.net/v2/jpg/02/94/43/73/1000_F_294437347_mpDj5YLnT4YIxhd80gVl2mio2zfC1BIe.jpg) | ![](https://media-cdn.tripadvisor.com/media/photo-s/0a/57/a3/97/lift-kamar-superior.jpg) |
 | ![](https://www.squareyards.com/cdn-cgi/image/width=546,height=546,quality=80,fit=crop,gravity=auto,format=webp/https://img.squareyards.com/secondaryPortal/638257907957425782-2407231019551955.jpg) | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTE4MDk3MCwtMjExMjg4ODE1MywxOD
+eyJoaXN0b3J5IjpbMjA2NDMxODkyNSwtMjExMjg4ODE1MywxOD
 Q5NTEzNDQsLTEwNjM2NTA3MDEsNTI2ODYyMTQ4LDY3Mjk4MjE2
 MywzNTg4NTcyMzksNzkwMDA5MDY3LDE5MDM0MjUyNTksMTgzNj
 A5MDgxNywzMDUwODI5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4
