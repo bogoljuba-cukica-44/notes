@@ -16,6 +16,7 @@
 - [Granit VKN d.o.o, Zvezdara](https://www.granit-vestackikamen.rs/index.html)
 - [Ploca d.o.o, Beograd](https://www.ploca.rs/) je više izvođač ali pozovi
 - [Greenland Stone, Beograd](https://www.prirodnidekorativnikamen.rs/) ima dosta primera [a radili su ovde i lift](https://www.prirodnidekorativnikamen.rs/portfolio/stambena-zgrada-fasada-stepeniste-i-lift/)
+- [Mermeri Radić, Loznica i Mali Zvornik](https://www.mermeriradic.rs/)
 - [Dar Granit, Beograd](https://dargranit.rs/)
 - [Mermer Megran, Vinča Beograd](https://kamenmegran.com/) izgleda prizemno i realno [a tu su i cene](https://kamenmegran.com/cene/) a poseduju i primer koji se meni baš dopada iako su u pitanju ulazna vrata a ne lift, ali svejedno [pogledaj](https://kamenmegran.com/wp-content/uploads/2019/04/fasada-od-mermera.jpg).
 Zvao sam i cena je 350 €/m².
@@ -27,5 +28,6 @@ Aranđelovac - https://www.mermetastone.com/
 
 Ovo je malo drugačije: [Dekorativni kamen](https://www.kamen-za-zid.rs/cena/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ0MDE3MjMsLTM3ODkwNzk5M119
+eyJoaXN0b3J5IjpbMTA5NzQ4NjQ1MiwtMTU3NDQwMTcyMywtMz
+c4OTA3OTkzXX0=
 -->
