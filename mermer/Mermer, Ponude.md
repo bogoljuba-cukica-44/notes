@@ -1,8 +1,8 @@
 # Mermer Ponude
 
-Materijali mogu da budu od Laminam keramike, od Quarella kompozitnog mermera, od kvarca Technistone, ali čak je čak pravi Daino Reale mermer prelep.
+Materijali mogu da budu od Laminam keramike koja izgleda nestvarno, od Quarella kompozitnog mermera koji nije preskup, od kvarca Technistone, ali čak je čak pravi Daino Reale mermer prelep.
 
-Najbolja bi varijanta bila da obložim sve svetlim pločicama Laminam koje su tanje, dok oko lifta ide deblji plemeniti crni materijal koji ide punom visinom iznad lifta i čak da od njega napravii
+**Kreativna varijanta** bi bila da obložim sve svetlim pločicama Laminam koje su tanje, dok oko lifta ide deblji plemeniti crni materijal koji ide punom visinom iznad lifta i čak da od njega idu sokle pošto je on deblji i to izgleda predivno.
 
 ## Aleksandar Mermer, Beograd⁩
 📞+381-64-2905884
@@ -60,9 +60,9 @@ Sad mislim da je najbolje da radim u keramici.
 | ![](https://media.gettyimages.com/id/1206237915/photo/elevator-lobby-11-hanover-square-london-united-kingdom-architect-campbell-architects-ltd-2017.jpg?s=612x612&w=gi&k=20&c=sPFJnxevy61sOU5vom0D7E0FAkeB7HQ9968a5H-QTo8=) | ![](https://as2.ftcdn.net/v2/jpg/02/94/43/73/1000_F_294437347_mpDj5YLnT4YIxhd80gVl2mio2zfC1BIe.jpg) | ![](https://media-cdn.tripadvisor.com/media/photo-s/0a/57/a3/97/lift-kamar-superior.jpg) |
 | ![](https://www.squareyards.com/cdn-cgi/image/width=546,height=546,quality=80,fit=crop,gravity=auto,format=webp/https://img.squareyards.com/secondaryPortal/638257907957425782-2407231019551955.jpg) | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTgxODEwNCwyMDY0MzE4OTI1LC0yMT
-EyODg4MTUzLDE4NDk1MTM0NCwtMTA2MzY1MDcwMSw1MjY4NjIx
-NDgsNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMDkwNjcsMTkwMz
-QyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1MiwtMTU5ODkzMDEx
-MCwtMjA1MDIyNDg3NF19
+eyJoaXN0b3J5IjpbNjkxNDA3OTAyLDIwNjQzMTg5MjUsLTIxMT
+I4ODgxNTMsMTg0OTUxMzQ0LC0xMDYzNjUwNzAxLDUyNjg2MjE0
+OCw2NzI5ODIxNjMsMzU4ODU3MjM5LDc5MDAwOTA2NywxOTAzND
+I1MjU5LDE4MzYwOTA4MTcsMzA1MDgyOTUyLC0xNTk4OTMwMTEw
+LC0yMDUwMjI0ODc0XX0=
 -->
