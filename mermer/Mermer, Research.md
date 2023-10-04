@@ -8,8 +8,8 @@
 
 ## Kompanije
 
-+ [Mermeri i Graniti Ilić, Šabac](https://mermerigraniti.rs/) sam 📞 
-+ [Anastasijević i sinovi, Novi Beograd ](https://www.anastasijevic.rs/)
++ [Mermeri i Graniti Ilić, Šabac](https://mermerigraniti.rs/) called 📞 
+- [Anastasijević i sinovi, Novi Beograd ](https://www.anastasijevic.rs/)
 + [Ideal Stone, Inđija](https://idealstone.rs/) i njihove cene [na KupujemProdajem](https://novi.kupujemprodajem.com/gradjevinarstvo/gradjevinski-materijali/granit-mermer-kvarc-seceno-na-meru/oglas/6937855)
 - [SerbianStone, Beograd](https://ukrasnikamen.rs/) 
 - [Mondial90, Žarkovo](https://mondial90.rs/)
@@ -28,6 +28,6 @@ Aranđelovac - https://www.mermetastone.com/
 
 Ovo je malo drugačije: [Dekorativni kamen](https://www.kamen-za-zid.rs/cena/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQ4NjQ1MiwtMTU3NDQwMTcyMywtMz
+eyJoaXN0b3J5IjpbLTk0NDI2ODg4OCwtMTU3NDQwMTcyMywtMz
 c4OTA3OTkzXX0=
 -->
