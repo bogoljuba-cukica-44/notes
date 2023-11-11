@@ -21,7 +21,7 @@ Lift 1096€ / 1721€, Prolazna vrata 906€, Lift spratovi 943€
 
 ## Ideal Stone, Inđija
 📞+381-65-4022022
-Obavezno pogledaj i https://www.instagram.com/idealstonedoo/
+Obavezno pogledaj https://www.instagram.com/idealstonedoo/
 
 [Asortiman Kompozitni mermer kod Ideal Stone](https://idealstone.rs/asortiman-kompozitni-mermer/) uglavnom ima sve svetle boje, ali može se naći identičan boji našeg zida, na primer Bainco Ambra.
 
@@ -63,7 +63,7 @@ Sad mislim da je najbolje da radim u keramici.
 | ![](https://media.gettyimages.com/id/1206237915/photo/elevator-lobby-11-hanover-square-london-united-kingdom-architect-campbell-architects-ltd-2017.jpg?s=612x612&w=gi&k=20&c=sPFJnxevy61sOU5vom0D7E0FAkeB7HQ9968a5H-QTo8=) | ![](https://as2.ftcdn.net/v2/jpg/02/94/43/73/1000_F_294437347_mpDj5YLnT4YIxhd80gVl2mio2zfC1BIe.jpg) | ![](https://media-cdn.tripadvisor.com/media/photo-s/0a/57/a3/97/lift-kamar-superior.jpg) |
 | ![](https://www.squareyards.com/cdn-cgi/image/width=546,height=546,quality=80,fit=crop,gravity=auto,format=webp/https://img.squareyards.com/secondaryPortal/638257907957425782-2407231019551955.jpg) | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDE4NDI5LDk0OTE2MTcxOSwyMDY0Mz
+eyJoaXN0b3J5IjpbMzgzNDczMTI2LDk0OTE2MTcxOSwyMDY0Mz
 E4OTI1LC0yMTEyODg4MTUzLDE4NDk1MTM0NCwtMTA2MzY1MDcw
 MSw1MjY4NjIxNDgsNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMD
 kwNjcsMTkwMzQyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1Miwt
