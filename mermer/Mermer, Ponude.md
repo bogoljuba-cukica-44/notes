@@ -1,24 +1,3 @@
-# Mermer Ponude
-
-Materijali mogu da budu od Laminam keramike koja izgleda nestvarno, od Quarella kompozitnog mermera koji nije preskup, od kvarca Technistone, ali čak je čak pravi Daino Reale mermer prelep. Za sada mi je favorit keramika, ali u dvobojnoj kombinaciji.
-
-**Lux varijanta** bi bila da obložim sve svetlim pločicama Laminam koje su tanje, dok oko lifta ide deblji plemeniti crni materijal koji ide punom visinom iznad lifta i čak da od njega idu sokle pošto je on deblji i to izgleda predivno.
-
-**Kreativna varijanta** je da u istom rasporedu kombinujem Laminam keramiku u  kombinaciji boja crno i krem, na isti način kao Lux varijanta. 
-
-## Aleksandar Mermer, Beograd⁩
-📞+381-64-2905884
-
-I on predlaže mermer Daino Reale, ali mi je Lift Jeftino verziju dao cenu za sečenje i obradu od 1.590€ plus montaža 290€, što mi vrlo skupo izgleda.
-
-## ⁨Borivoj Ilić Mermer, Šabac
-📞+381-64-6436392
-
-Čovek predlaže mermer Daino Reale, koji košta po m² mermera sa montažom oko 250€, dok je kantovanje 15 eur/m.
-
-Kada bih po ovim cenama računao, ispalo bi:
-Lift 1096€ / 1721€, Prolazna vrata 906€, Lift spratovi 943€
-
 ## Ideal Stone, Inđija
 📞+381-65-4022022
 Obavezno pogledaj https://www.instagram.com/idealstonedoo/
@@ -48,24 +27,10 @@ Ima nestvarnih dezena u visokom sjaju za koje se ne može razaznati da li je u p
 
 Sad mislim da je najbolje da radim u keramici.
 
----
-
-# Inspiracija
-
-|||
-|--|--|
-| ![](https://i.pinimg.com/originals/50/9b/20/509b20ca5864f9c66ee2d6b17df9bb5e.png) | ![](https://a.storyblok.com/f/47554/b81d608829/025_elevator-lobby2.jpg) |
-| ![](https://5.imimg.com/data5/SELLER/Default/2023/6/313310744/HN/GN/LW/2931975/stainless-steel-elevator-door-500x500.png) | ![](https://mir-s3-cdn-cf.behance.net/project_modules/disp_still/415eed110363397.5ff08c1251b66.jpg) |
-| ![](https://i.ytimg.com/vi/vCktL_HiEQw/maxresdefault.jpg) | ![](https://i.ytimg.com/vi/AE1r9daOH4k/maxresdefault.jpg) |
-| ![](https://content.jdmagicbox.com/comp/mumbai/s4/022pxx22.xx22.140505173807.e9s4/catalogue/mitsubishi-elevator-india-pvt-ltd-andheri-east-mumbai-elevator-manufacturers-mitsubishi-nlcei0jlcr-250.jpg) | ![](https://resizer2.4zida.rs/Qlhatj6NQmh_U9NCOH3a2ff09W-JlXLoPmYRWz8uPQw/rs:fill:730:396:0/bG9jYWw6Ly8vNjRkMjRkNWE4MDZkNTdhNjRkMGNmY2RmLzYyOWJhODJkNjc.webp) |
-| ![](https://i.pinimg.com/236x/13/04/06/13040665c6113e38fcdfd1a60b29330d.jpg) | ![](https://i.pinimg.com/originals/78/cd/99/78cd9929b6e372390573bae8766a5f2f.jpg) |
-| ![](https://previews.123rf.com/images/stillraining/stillraining1703/stillraining170300227/73700309-an-empty-modern-elevator-or-lift-with-metal-doors-that-are-open-in-building-with-lighting.jpg) | ![](https://images.squarespace-cdn.com/content/v1/57eb44916b8f5be752c94f84/1528063313562-UHO37YJNSHVRHU3HCNDV/door+skin+copy.jpg) |
-| ![](https://media.gettyimages.com/id/1206237915/photo/elevator-lobby-11-hanover-square-london-united-kingdom-architect-campbell-architects-ltd-2017.jpg?s=612x612&w=gi&k=20&c=sPFJnxevy61sOU5vom0D7E0FAkeB7HQ9968a5H-QTo8=) | ![](https://as2.ftcdn.net/v2/jpg/02/94/43/73/1000_F_294437347_mpDj5YLnT4YIxhd80gVl2mio2zfC1BIe.jpg) | ![](https://media-cdn.tripadvisor.com/media/photo-s/0a/57/a3/97/lift-kamar-superior.jpg) |
-| ![](https://www.squareyards.com/cdn-cgi/image/width=546,height=546,quality=80,fit=crop,gravity=auto,format=webp/https://img.squareyards.com/secondaryPortal/638257907957425782-2407231019551955.jpg) | |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDczMTI2LDk0OTE2MTcxOSwyMDY0Mz
-E4OTI1LC0yMTEyODg4MTUzLDE4NDk1MTM0NCwtMTA2MzY1MDcw
-MSw1MjY4NjIxNDgsNjcyOTgyMTYzLDM1ODg1NzIzOSw3OTAwMD
-kwNjcsMTkwMzQyNTI1OSwxODM2MDkwODE3LDMwNTA4Mjk1Miwt
-MTU5ODkzMDExMCwtMjA1MDIyNDg3NF19
+eyJoaXN0b3J5IjpbOTE0NzIxMTE2LDM4MzQ3MzEyNiw5NDkxNj
+E3MTksMjA2NDMxODkyNSwtMjExMjg4ODE1MywxODQ5NTEzNDQs
+LTEwNjM2NTA3MDEsNTI2ODYyMTQ4LDY3Mjk4MjE2MywzNTg4NT
+cyMzksNzkwMDA5MDY3LDE5MDM0MjUyNTksMTgzNjA5MDgxNywz
+MDUwODI5NTIsLTE1OTg5MzAxMTAsLTIwNTAyMjQ4NzRdfQ==
 -->
