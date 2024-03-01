@@ -24,10 +24,10 @@ Ako je širina 10+20 = 30cm a okvir je 3m dužine što je ukupno oko 1m².
 
 Aranđelovac - https://www.mermetastone.com/
 
-
+- https://www.instagram.com/sarac_granit/
 
 Ovo je malo drugačije: [Dekorativni kamen](https://www.kamen-za-zid.rs/cena/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDI2ODg4OCwtMTU3NDQwMTcyMywtMz
-c4OTA3OTkzXX0=
+eyJoaXN0b3J5IjpbLTExODIxMTk5ODYsLTk0NDI2ODg4OCwtMT
+U3NDQwMTcyMywtMzc4OTA3OTkzXX0=
 -->
