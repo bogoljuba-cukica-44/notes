@@ -1,4 +1,4 @@
-# Predmer
+# Predmer #1
 
 Sigurno radimo lift-portal kao i prolazna vrata, dok uređenje po spratovima nije sigurno a i ako bude rađeno, biće u jeftinijoj varijanti..
 
@@ -86,7 +86,7 @@ Ovde nije moguće napraviti dve varijante već samo jednu jedinu, ali možda i n
 2. Prolazna vrata: površina 2.59 m2, dužine reza 17.2 m
 3. Lift na spratovima, jeftino: površina 2.38 m2, dužine reza 23.15 m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzY1NTY1NCwyNjI4ODYwMzYsMTYwMD
-I0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3LC0yMTAzNTY3
-MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
+eyJoaXN0b3J5IjpbLTI0MDIxOTYsLTkyMzY1NTY1NCwyNjI4OD
+YwMzYsMTYwMDI0NDYzNywtNjQ0NzQxODI2LC0xMjg5NDgyNTA3
+LC0yMTAzNTY3MjkxLC0yMDQ0MzA2NjQsLTkwNjMxNjExNl19
 -->
